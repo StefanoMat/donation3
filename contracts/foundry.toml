@@ -12,4 +12,4 @@ url = "https://eth-sepolia.g.alchemy.com/v2/3Cw4IuyKRy_MewXqUObjEQgqI1zjHssn"
 chainId = 11155111
 
 [secret]
-private_key = "f9179320d087bddc6ac210ec7091612d21e7f35c5b9f93e04a1abbd947f6aa8e"
+private_key = ""
